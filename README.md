@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Python, JavaScript, React
 - 💞️ I’m looking to collaborate on smart people
 - 📫 How to reach me add proflie
+- [notion](https://www.notion.so/93297c2f11e34787956ecbefd40c74d4?v=e56b75259ceb467c8fd5f021e56143ff&pvs=4)
 
 ​	<br>	<br>
 
