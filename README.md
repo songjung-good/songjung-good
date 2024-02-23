@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=250&section=header&text=YH&animation=fadeIn&fontColor=3366FF&fontSize=90">
 </p>
 
-# 👋 TUDINI dev ver.  👋
+# 👋 YH dev ver.  👋
 
 <p align="right"> 
-<a href="https://hits.seeyoufarm.com"><img width="25%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSujinJeong&count_bg=%23F55FD5&title_bg=%23767373&icon=&icon_color=%23E7E7E7&title=%EC%98%A4%EB%8A%98%EC%9D%98+%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=true"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongjung-good&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>  
 
 ## 🌱 About Me
