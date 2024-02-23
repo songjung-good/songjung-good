@@ -4,20 +4,19 @@
 
 # 👋 YH dev ver.  👋
 
-<p align="right"> 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongjung-good&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongjung-good&count_bg=%23FF1BAC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
 ## 🌱 About Me
 
 |**활동**|**기간**|**활동내용**|
 |:---:|:---:|:---:|
 |울산대학교|2015.03~2021.02(140학점)|경제학과 학사 수료|
-<!-- |울산광역시 시의회 계약직|2016.02~2016.12(10개월)|시의원직 수행 도움| -->
-<!-- |노무현장학재단 장학생|2020.01~2020.12(1년)|부울경지역 장학생활동| -->
 |도서집필|2019.07~2019.12|청년정책관련 도서 공동저자|
 |군복무|2021.10~2023.04(18개월)|육군복무|
 |ssafy 10기|2023.07~2024.06|비전공자 sw수강|
+
+<!-- |울산광역시 시의회 계약직|2016.02~2016.12(10개월)|시의원직 수행 도움| -->
+<!-- |노무현장학재단 장학생|2020.01~2020.12(1년)|부울경지역 장학생활동| -->
 
 ## :fries: Notion
 
