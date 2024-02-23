@@ -22,14 +22,18 @@
 
 
 ## 👯 기술스택
-
+<!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-007396?style=flat&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Database-Sqlite-green?style=flat&logo=sqlite&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Framework-django-darkgreen?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Framework-Vue-red?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Library-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-Sqlite-003B57?style=flat&logo=sqlite&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Framework-django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Library-React-61DAFB?style=flat&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Library-Zustand-61DAFB?style=flat&logo=Zustand&logoColor=white">
 </p>
 
 - window10
