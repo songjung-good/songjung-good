@@ -44,14 +44,16 @@
 - bootstrap: 5.3.1 
 - Node.js 20.9.0
 - Pinia 2.1.7
+- React.js
+- ReactNative
 
 
 ## ⚡ 자격증
 
-+ DASP / SQLD / ADSP
-+ 정보처리기사
-+ 중등정교사자격증 2급 정보컴퓨터
-+ 워드프로세서 1급
++ SQLD(원함)
++ 정보처리기사(예정)
++ 
++ 
 
 
 
@@ -63,7 +65,7 @@
 
 
 ## 😄 토이프로젝트
-1. *소상공인을 위한 미니 POS 프로젝트* 'DD' https://github.com/SujinJeong/softwaresysmtemdevelop
+1. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
 
 
 ## ✨ 저의 깃허브는요
