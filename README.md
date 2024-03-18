@@ -59,20 +59,21 @@
 
 ## 💬 Contact
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/lovesujin051)](https://blog.naver.com/lovesujin051)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lovesujin05173@gmail.com)](mailto:lovesujin05173@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/a1ways8my._.se1f/)](https://www.instagram.com/a1ways8my._.se1f/)
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://front-developer.tistory.com/](https://front-developer.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/{사용자아이디}/](https://www.instagram.com/{사용자아이디}/)
 
 
-## 😄 토이프로젝트
+## 😄 진행프로젝트
 1. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
-
+2. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
+3. *위치기반 은행탐색, 소비성향 기반 금융상품 추천 웹 프로젝트* 'banksnap' : https://github.com/songjung-good/pjt_banksnap
 
 ## ✨ 저의 깃허브는요
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=SujinJeong&show_icons=true&theme=dark" width = "65%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="28%">
+<img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "65%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="28%">
 
  </p>
