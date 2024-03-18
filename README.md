@@ -60,7 +60,9 @@
 ## 💬 Contact
 
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://front-developer.tistory.com/](https://front-developer.tistory.com/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/{사용자아이디}/](https://www.instagram.com/{사용자아이디}/)
 
 
@@ -75,6 +77,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "65%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="28%">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="28%">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218)](https://solved.ac/ssafy1055218/)
 
  </p>
