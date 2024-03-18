@@ -75,6 +75,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "65%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="28%">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218)](https://solved.ac/ssafy1055218/)
 
  </p>
