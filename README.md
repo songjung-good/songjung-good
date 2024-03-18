@@ -11,12 +11,12 @@
 |**활동**|**기간**|**활동내용**|
 |:---:|:---:|:---:|
 |울산대학교|2015.03~2021.02(140학점)|경제학과 학사 수료|
-|도서집필|2019.07~2019.12|청년정책관련 도서 공동저자|
+|도서집필|2019.07~2019.12|'울대생피셩 청년정책 뜯어보기'|
 |군복무|2021.10~2023.04(18개월)|육군복무|
 |ssafy 10기|2023.07~2024.06|비전공자 sw수강|
 
-<!-- |울산광역시 시의회 계약직|2016.02~2016.12(10개월)|시의원직 수행 도움| -->
-<!-- |노무현장학재단 장학생|2020.01~2020.12(1년)|부울경지역 장학생활동| -->
+<!-- |울산광역시의회|2016.02~2016.12(10개월)|사무보조| -->
+<!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
 
 ## :fries: Notion
 
@@ -44,9 +44,10 @@
 - bootstrap: 5.3.1 
 - Node.js 20.9.0
 - Pinia 2.1.7
-- React.js
-- ReactNative
-
+- React.js 18
+- ReactNative 
+- Tailwind
+- vuetify
 
 ## ⚡ 자격증
 
@@ -59,11 +60,11 @@
 
 ## 💬 Contact
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://front-developer.tistory.com/](https://front-developer.tistory.com/)
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/{사용자아이디}/](https://www.instagram.com/{사용자아이디}/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/{사용자아이디}/)
 
 
 ## 😄 진행프로젝트
@@ -78,6 +79,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "65%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="28%">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="28%">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218)](https://solved.ac/ssafy1055218/)
+[노션](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
 
  </p>
