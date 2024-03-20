@@ -16,8 +16,10 @@
 |울산대학교|2015.03~2021.02(130학점)|경제학과 학사 수료|
 
 
+[노션](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
 <!-- |울산광역시의회|2016.02~2016.12(10개월)|사무보조| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
+
 
 ## :fries: Notion
 
@@ -62,15 +64,11 @@
 
 ## 💬 Contact
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/{사용자아이디}/)
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
 
 
 ## 😄 진행프로젝트
-1. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
+1. 
 2. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
 3. *위치기반 은행탐색, 소비성향 기반 금융상품 추천 웹 프로젝트* 'banksnap' : https://github.com/songjung-good/pjt_banksnap
 
@@ -78,9 +76,8 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "65%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="28%">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="28%">
-[노션](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
+<img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="24%">
 
  </p>
