@@ -16,13 +16,13 @@
 |울산대학교|2015.03~2021.02(130학점)|경제학과 학사 수료|
 
 
-[노션](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
 <!-- |울산광역시의회|2016.02~2016.12(10개월)|사무보조| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
 
 
 ## :fries: Notion
 
+### [노션](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
 
 ## 👯 기술스택
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
@@ -59,7 +59,6 @@
 + 정보처리기사(예정)
 + 
 + 
-
 
 
 ## 💬 Contact
