@@ -2,13 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=250&section=header&text=YH&animation=fadeIn&fontColor=3366FF&fontSize=90">
 </p>
 
+<p justify-content= 'space-between';>
 # 👋 YH dev ver.  👋
-<p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongjung-good&count_bg=%23FF1BAC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
 
 ## 🌱 About Me
-
+<p align='center'>
 |**활동**|**기간**|**활동내용**|
 |:---:|:---:|:---:|
 |ssafy 10기|2023.07~2024.06(1년)|비전공자 sw수강|
@@ -19,7 +19,7 @@
 
 <!-- |울산광역시의회|2016.02~2016.12(10개월)|사무보조| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
-
+</p>
 
 ## :fries: Notion
 
