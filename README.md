@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=250&section=header&text=YH&animation=fadeIn&fontColor=3366FF&fontSize=90">
 </p>
 
-<p justify-content= 'space-between';>
+
 # 👋 YH dev ver.  👋
+<p justify-content= 'space-between';>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongjung-good&count_bg=%23FF1BAC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
 
@@ -15,11 +16,11 @@
 |군복무|2021.10~2023.04(18개월)|육군복무|
 |도서집필|2020.10~2020.12|'울대생피셩 청년정책 뜯어보기'|
 |울산대학교|2015.03~2021.02(130학점)|경제학과 학사 수료|
+</p>
 
 
 <!-- |울산광역시의회|2016.02~2016.12(10개월)|사무보조| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
-</p>
 
 ## :fries: Notion
 
