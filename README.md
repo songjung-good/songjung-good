@@ -42,15 +42,16 @@
 - window10
 - python: 3.9.13
 - JavaScript: es6++
+- TypeScript
 - Django: 4.2.7
 - Vue: 3.3.8
-- bootstrap: 5.3.1 
-- Node.js 20.9.0
-- Pinia 2.1.7
-- React.js 18
+- React.js: 18
 - ReactNative 
 - Tailwind
 - vuetify
+- bootstrap: 5.3.1
+- Pinia: 2.1.7
+- zustand
 
 ## ⚡ 자격증
 
@@ -66,7 +67,7 @@
 
 
 ## 😄 진행프로젝트
-1. 
+1. *옷 관리 및 데일리 룩 추천 등 나만의 옷장을 만든 IOT프로젝트* 'close-at-hand' : https://github.com/songjung-good/close-at-hand.git
 2. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
 3. *위치기반 은행탐색, 소비성향 기반 금융상품 추천 웹 프로젝트* 'banksnap' : https://github.com/songjung-good/pjt_banksnap
 
