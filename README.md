@@ -28,8 +28,8 @@
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
 <p align="center">
   <img src="https://img.shields.io/badge/Language-python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"> 
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFF"> 
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF"> 
   <img src="https://img.shields.io/badge/Framework-django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-NextJS-003B57?style=flat&logo=sqlite&logoColor=white"> 
