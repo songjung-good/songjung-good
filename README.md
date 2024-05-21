@@ -22,7 +22,7 @@
 
 ## :fries: Notion
 
-### [![Notion](./notionBG)](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
+### [![Notion](./notionBG.jpg)](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
 
 ## 👯 기술스택
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=flat&logo=아이콘이름&logoColor=색상번호"> -->
