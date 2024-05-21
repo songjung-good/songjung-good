@@ -33,11 +33,12 @@
   <img src="https://img.shields.io/badge/Framework-Django-092E20?style=flat&logo=django&logoColor=green">
   <img src="https://img.shields.io/badge/Framework-Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/Framework-next.js-000000?style=flat&logo=nextdotjs&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Library-react-black?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Library-React_Native-05122A?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-tailwindcss-0F172A?style=flat&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=AEDDFF">
-  <img src="https://img.shields.io/badge/Framework-tailwindcss-0F172A?style=flat&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/Library-react-black?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/Library-React_Native-05122A?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Database-SQlite-003B57?style=flat&logo=SQLite&logoColor=white"> 
   <img src="https://img.shields.io/badge/Database-mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 </p>
@@ -48,15 +49,28 @@
 - TypeScript 
 - Django: 4.X
 - Vue: 3.X
+- Next.js
 - React.js: 18
 - ReactNative
-- Next.js
 - styledcomponent
 - Tailwind
 - vuetify
 - bootstrap: 5.3.1
+- sqlite
+- mysql
 - Pinia: 2.1.7
 - zustand
+  
+### 협업 툴
+- Jira
+- Mattermost
+- slack
+- notion
+- google sheet
+- git
+- Figma
+- discord
+- webex
 
 <!-- ## ⚡ 자격증
 
