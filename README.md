@@ -20,9 +20,12 @@
 <!-- |군복무|2021.10~2023.04(18개월)|육군복무| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
 
-## :fries: Notion
 
-### [![Notion](./notionBG.jpg)](https://www.notion.so/b71c52e1643b4fc7bd36a4d6ef15eee8)
+## 😄 진행프로젝트
+1. *커밋 기반 프로젝트 분석 웹 프로젝트* 'CoA' : https://github.com/songjung-good/commitanalyzer.git
+2. *옷 관리 및 데일리 룩 추천 등 나만의 옷장을 만든 IOT프로젝트* 'close-at-hand' : https://github.com/songjung-good/close-at-hand.git
+3. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
+
 
 ## 👯 기술스택
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=flat&logo=아이콘이름&logoColor=색상번호"> -->
@@ -60,6 +63,7 @@
 - mysql
 - Pinia: 2.1.7
 - zustand
+
   
 ### 협업 툴
 - Jira
@@ -82,14 +86,12 @@
 
 ## 💬 Contact
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+### [![Notion](./notionBG.jpg)](https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4)
+### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+
+<!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
 
 
-## 😄 진행프로젝트
-1. *커밋 기반 프로젝트 분석 웹 프로젝트* 'CoA' : https://github.com/songjung-good/commitanalyzer.git
-2. *옷 관리 및 데일리 룩 추천 등 나만의 옷장을 만든 IOT프로젝트* 'close-at-hand' : https://github.com/songjung-good/close-at-hand.git
-3. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
 
 ## ✨ 저의 깃허브는요
 
