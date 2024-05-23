@@ -42,39 +42,31 @@
   <img src="https://img.shields.io/badge/Framework-tailwindcss-0F172A?style=flat&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=AEDDFF">
   <img src="https://img.shields.io/badge/Framework-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-Pinia-4479A1?style=flat&logo=pinia&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Framework-zustand-4479A1?style=flat&logo=zustand&logoColor=white"> 
   <img src="https://img.shields.io/badge/Database-SQlite-003B57?style=flat&logo=SQLite&logoColor=white"> 
   <img src="https://img.shields.io/badge/Database-mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 </p>
 
-- window10
-- python: 3.X
-- JavaScript: es6++
-- TypeScript 
-- Django: 4.X
-- Vue: 3.X
+- python: 코드를 이해하고 알고리즘을 풀 수 있음
+- JavaScript es6++
+- TypeScript
 - Next.js
-- React.js: 18
-- ReactNative
+- React18
 - styledcomponent
 - Tailwind
-- vuetify
-- bootstrap: 5.3.1
-- sqlite
-- mysql
-- Pinia: 2.1.7
-- zustand
+
+
+해당 기술 스택으로 개발을 진행한 경험이 있음
+- Django, Vue3, ReactNative, vuetify, bootstrap5, sqlite, mysql, Pinia, zustand
+
 
   
 ### 협업 툴
-- Jira
-- Mattermost
-- slack
-- notion
-- google sheet
-- git
-- Figma
-- discord
-- webex
+- Jira, git
+- Mattermost, slack
+- notion, google sheet, Figma
+- discord, webex
 
 <!-- ## ⚡ 자격증
 
@@ -96,9 +88,7 @@
 ## ✨ 저의 깃허브는요
 
 <p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="24%">
-
- </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="24%">
+</p>
