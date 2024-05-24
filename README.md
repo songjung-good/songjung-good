@@ -49,17 +49,11 @@
   <img src="https://img.shields.io/badge/Database-mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 </p>
 
-- python: 코드를 이해하고 알고리즘을 풀 수 있음
-- JavaScript es6++
+- python
+- JavaScript
 - TypeScript
 - Next.js
-- React18
-- styledcomponent
-- Tailwind
-
-
-해당 기술 스택으로 개발을 진행한 경험이 있음
-- Django, Vue3, ReactNative, vuetify, bootstrap5, sqlite, mysql, Pinia, zustand
+- React
 
 
   
