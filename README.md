@@ -1,21 +1,22 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=250&section=header&text=YH&animation=fadeIn&fontColor=3366FF&fontSize=90">
+<p align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongjung-good&count_bg=%23FF1BAC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+  </a>
 </p>
 
 
 # 👋 YH dev ver.  👋
-<p justify-content= 'space-between';>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongjung-good&count_bg=%23FF1BAC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=200&section=header&text=YH&animation=fadeIn&fontColor=3366FF&fontSize=90">
 </p>
-
 
 ## 🌱 About Me
 |**활동**|**기간**|**활동내용**|
 |:---:|:---:|:---:|
-|ssafy 10기|2023.07~2024.06(1년)|알고리즘 중심 코딩교육 & 프로젝트 기반 학습|
-|도서집필|2020.10~2020.12(3개월)|'울대생피셜 청년정책 뜯어보기'|
-|울산광역시의회|2016.01~2016.12(10개월)|시정질의, 자유발언 등 초안 탈고|
-|울산대학교|2015.03~2021.02(130학점)|경제학과 학사 수료|
+|**ssafy 10기**|2023.07~2024.06(1년)|:알고리즘 중심 코딩교육 & 프로젝트 기반 학습|
+|**도서집필**|2020.10~2020.12(3개월)|:'울대생피셜 청년정책 뜯어보기'|
+|**울산광역시의회**|2016.01~2016.12(10개월)|:시정질의, 자유발언 등 초안 탈고|
+|**울산대학교**|2015.03~2021.02(130학점)|:경제학과 학사 수료|
 
 
 <!-- |군복무|2021.10~2023.04(18개월)|육군복무| -->
@@ -23,7 +24,7 @@
 
 
 ## 😄 진행프로젝트
-|CoA|cloth at hand|gollajyu|
+|:CoA:|:cloth at hand:|:골라쥬:|
 |------|---|---|
 |https://github.com/songjung-good/commitanalyzer.git|https://github.com/songjung-good/close-at-hand.git|https://github.com/songjung-good/gollajyu|
 |커밋 기반 프로젝트 분석 웹 프로젝트|옷 관리 및 데일리 룩 추천 IOT프로젝트|정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트|
@@ -75,8 +76,13 @@
 
 ## 💬 Contact
 
-### [![Notion](./notionBG.jpg)](https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4)
-### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+### Notion
+<a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4">
+	<img src="./img/notionBG.jpg" width="75%" alt="notionBG">
+</a>
+
+### Gmail
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
 
 <!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
 
@@ -84,7 +90,7 @@
 
 ## ✨ 저의 깃허브는요
 
-<p align="center">
+<p align="center" ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="24%">
