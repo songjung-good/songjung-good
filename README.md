@@ -23,13 +23,11 @@
 
 
 ## 😄 진행프로젝트
-|제목|내용|설명|
+|CoA|cloth at hand|gollajyu|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-1. *커밋 기반 프로젝트 분석 웹 프로젝트* 'CoA' : https://github.com/songjung-good/commitanalyzer.git
-2. *옷 관리 및 데일리 룩 추천 등 나만의 옷장을 만든 IOT프로젝트* 'close-at-hand' : https://github.com/songjung-good/close-at-hand.git
-3. *정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트* '골라쥬' : https://github.com/songjung-good/gollajyu
+|https://github.com/songjung-good/commitanalyzer.git|https://github.com/songjung-good/close-at-hand.git|https://github.com/songjung-good/gollajyu|
+|커밋 기반 프로젝트 분석 웹 프로젝트|옷 관리 및 데일리 룩 추천 IOT프로젝트|정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트|
+
 
 
 ## 👯 기술스택
