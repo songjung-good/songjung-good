@@ -91,7 +91,7 @@
 ## ✨ 저의 깃허브는요
 
 <p align="center" ="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="24%">
 </p>
