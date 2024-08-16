@@ -6,9 +6,7 @@
 
 
 # 👋 YH dev ver.  👋
-<p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
