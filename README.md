@@ -7,11 +7,31 @@
 
 # 👋 YH dev ver.  👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,3&height=200&section=header&text=YH&animation=fadeIn&fontColor=3366FF&fontSize=90">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="24%">
 </p>
 
-## test
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+## 💬 Contact
+
+### Notion
+<a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4">
+	<img src="./img/notionBG.jpg" width="75%" alt="notionBG">
+</a>
+
+### Gmail
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+
+<!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
+
+
+
+## ✨ 저의 깃허브는요
+
+
 
 
 ## 🌱 About Me
@@ -77,25 +97,3 @@
 + 
 + -->
 
-
-## 💬 Contact
-
-### Notion
-<a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4">
-	<img src="./img/notionBG.jpg" width="75%" alt="notionBG">
-</a>
-
-### Gmail
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
-
-<!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
-
-
-
-## ✨ 저의 깃허브는요
-
-<p align="center" ="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="24%">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafy1055218" width="24%">
-</p>
