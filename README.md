@@ -6,10 +6,10 @@
 
 
 # 👋 YH dev ver.  👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=songjung-good)](https://git.io/streak-stats)
+
 <p align="center">
+  <a href="https://streak-stats.demolab.com/?user=songjung-good" />
   <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good" width="48%">
 </p>
 
 ## 💬 Contact
