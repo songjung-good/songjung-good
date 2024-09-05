@@ -5,13 +5,15 @@
 </p>
 
 
-# 👋 YH dev ver.  👋
+# 👋 YH
 
 ## ✨ MY Github
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=songjung-good" />
   <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
 </p>
+
+<br>
 
 ## 💬 Contact
 
@@ -20,11 +22,14 @@
 	<img src="./img/notionBG.jpg" width="75%" alt="notionBG">
 </a>
 
+<br>
+
 ### Gmail
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
 
 <!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
 
+<br>
 
 ## 🌱 About Me
 |**활동**|**기간**|**활동내용**|
@@ -34,15 +39,18 @@
 |**울산광역시의회**|2016.01~2016.12(10개월)|시정질의, 자유발언 등 초안 탈고|
 |**울산대학교**|2015.03~2021.02(130학점)|경제학과 학사|
 
-
 <!-- |군복무|2021.10~2023.04(18개월)|육군복무| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
 
+<br>
 
 ## 😄 진행프로젝트
-|CoA|cloth at hand|골라쥬|
-|------|---|---|
 <table>
+  <tr>
+    <td>CoA</td>
+    <td>cloth at hand</td>
+    <td>골라쥬</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/songjung-good/CoA"><img src="./img/COA_img.webp" style="width:150px;height:auto;" alt="COA"></a></td>
     <td><a href="https://github.com/songjung-good/close-at-hand.git"><img src="./img/CAH_img.png" style="width:150px;height:auto;" alt="CAH"></a></td>
@@ -55,9 +63,7 @@
   </tr>
 </table>
 
-
-
-
+<br>
 
 ## 👯 기술스택
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=flat&logo=아이콘이름&logoColor=색상번호"> -->
@@ -86,13 +92,15 @@
 - Next.js
 - React
 
-
+<br>
   
 ### 협업 툴
 - Jira, git
 - Mattermost, slack
 - notion, google sheet, Figma
 - discord, webex
+
+<br>
 
 <!-- ## ⚡ 자격증
 
