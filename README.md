@@ -42,8 +42,19 @@
 ## 😄 진행프로젝트
 |CoA|cloth at hand|골라쥬|
 |------|---|---|
-|[![COA](./img/COA_img.webp){style="width:150px;height:auto;"}](https://github.com/songjung-good/CoA)|[![CAH](./img/CAH_img.png){style="width:150px;height:auto;"}](https://github.com/songjung-good/close-at-hand.git)|[![GLJ](./img/GLJ_img.png){style="width:150px;height:auto;"}](https://github.com/songjung-good/gollajyu)|
-|커밋 기반 프로젝트 분석 웹 프로젝트|옷 관리 및 데일리 룩 추천 IOT프로젝트|정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트|
+<table>
+  <tr>
+    <td><a href="https://github.com/songjung-good/CoA"><img src="./img/COA_img.webp" style="width:150px;height:auto;" alt="COA"></a></td>
+    <td><a href="https://github.com/songjung-good/close-at-hand.git"><img src="./img/CAH_img.png" style="width:150px;height:auto;" alt="CAH"></a></td>
+    <td><a href="https://github.com/songjung-good/gollajyu"><img src="./img/GLJ_img.png" style="width:150px;height:auto;" alt="GLJ"></a></td>
+  </tr>
+  <tr>
+    <td>커밋 기반 프로젝트 분석 웹 프로젝트</td>
+    <td>옷 관리 및 데일리 룩 추천 IOT프로젝트</td>
+    <td>정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트</td>
+  </tr>
+</table>
+
 
 
 
