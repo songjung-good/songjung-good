@@ -45,11 +45,11 @@
 <br>
 
 ## 😄 진행프로젝트
-<table style="width: 80%;">
+<table style="width: 70%; margin: 0 auto; border-collapse: collapse;">
   <tr>
-    <td style="text-align: center;">CoA</td>
-    <td style="text-align: center;">cloth at hand</td>
-    <td style="text-align: center;">골라쥬</td>
+    <td style="text-align: center; font-weight: bold; font-size: 1.2em;">CoA</td>
+    <td style="text-align: center; font-weight: bold; font-size: 1.2em;">cloth at hand</td>
+    <td style="text-align: center; font-weight: bold; font-size: 1.2em;">골라쥬</td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">
@@ -74,6 +74,7 @@
     <td style="text-align: center;">정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트</td>
   </tr>
 </table>
+
 
 <br>
 
