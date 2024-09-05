@@ -9,7 +9,7 @@
 
 ## ✨ MY Github
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=songjung-good" />
+  <div href="https://streak-stats.demolab.com/?user=songjung-good" />
   <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
 </p>
 
@@ -45,21 +45,33 @@
 <br>
 
 ## 😄 진행프로젝트
-<table style="center">
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td>CoA</td>
-    <td>cloth at hand</td>
-    <td>골라쥬</td>
+    <td style="text-align: center;">CoA</td>
+    <td style="text-align: center;">cloth at hand</td>
+    <td style="text-align: center;">골라쥬</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/songjung-good/CoA"><img src="./img/COA_img.webp" style="width:150px;height:auto;" alt="COA"></a></td>
-    <td><a href="https://github.com/songjung-good/close-at-hand.git"><img src="./img/CAH_img.png" style="width:150px;height:auto;" alt="CAH"></a></td>
-    <td><a href="https://github.com/songjung-good/gollajyu"><img src="./img/GLJ_img.png" style="width:150px;height:auto;" alt="GLJ"></a></td>
+    <td style="text-align: center; vertical-align: middle;">
+      <a href="https://github.com/songjung-good/CoA">
+        <img src="./img/COA_img.webp" style="width:150px;height:auto;" alt="COA">
+      </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <a href="https://github.com/songjung-good/close-at-hand.git">
+        <img src="./img/CAH_img.png" style="width:150px;height:auto;" alt="CAH">
+      </a>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <a href="https://github.com/songjung-good/gollajyu">
+        <img src="./img/GLJ_img.png" style="width:150px;height:auto;" alt="GLJ">
+      </a>
+    </td>
   </tr>
   <tr>
-    <td>커밋 기반 프로젝트 분석 웹 프로젝트</td>
-    <td>옷 관리 및 데일리 룩 추천 IOT프로젝트</td>
-    <td>정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트</td>
+    <td style="text-align: center;">커밋 기반 프로젝트 분석 웹 프로젝트</td>
+    <td style="text-align: center;">옷 관리 및 데일리 룩 추천 IOT프로젝트</td>
+    <td style="text-align: center;">정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트</td>
   </tr>
 </table>
 
