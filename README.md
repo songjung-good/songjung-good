@@ -45,7 +45,7 @@
 <br>
 
 ## 😄 진행프로젝트
-<table style="width:100%; border-collapse: collapse;">
+<table style="border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">CoA</td>
     <td style="text-align: center;">cloth at hand</td>
