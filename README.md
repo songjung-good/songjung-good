@@ -69,7 +69,7 @@
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: middle;">커밋 기반 프로젝트 분석 웹 프로젝트</td>
+    <td style="text-align: center;">커밋 기반 프로젝트 분석 웹 프로젝트</td>
     <td style="text-align: center;">옷 관리 및 데일리 룩 추천 IOT프로젝트</td>
     <td style="text-align: center;">정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트</td>
   </tr>
