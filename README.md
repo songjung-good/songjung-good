@@ -45,7 +45,7 @@
 <br>
 
 ## 😄 진행프로젝트
-<table>
+<table style="center">
   <tr>
     <td>CoA</td>
     <td>cloth at hand</td>
