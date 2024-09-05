@@ -7,6 +7,7 @@
 
 # 👋 YH dev ver.  👋
 
+## ✨ MY Github
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=songjung-good" />
   <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=dark" width = "48%">
@@ -23,12 +24,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
 
 <!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
-
-
-
-## ✨ 저의 깃허브는요
-
-
 
 
 ## 🌱 About Me
