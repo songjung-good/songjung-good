@@ -16,11 +16,13 @@
 <br>
 
 ## 💬 Contact
-<div>
-<a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4">
-  <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" width="25%" alt="notionBG">
-</a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+<div style="display: flex; align-items: center;">
+  <a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4" style="margin-right: 10px;">
+    <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" width="25%" alt="notionBG">
+  </a>
+  <a href="mailto:yeonghwan829@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 </div>
 <br>
 
