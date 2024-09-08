@@ -16,16 +16,14 @@
 <br>
 
 ## 💬 Contact
-
-### Notion
+<div>
 <a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4">
-  <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" width="75%" alt="notionBG">
+  <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" width="25%" alt="notionBG">
 </a>
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
+</div>
 <br>
 
-### Gmail
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeonghwan829@gmail.com)](mailto:yeonghwan829@gmail.com)
 
 <!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
 
