@@ -18,7 +18,7 @@
 ## 💬 Contact
 <div style="display: flex; align-items: center;">
   <a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4" style="margin-right: 10px;">
-    <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" width="25%" alt="notionBG">
+    <img src="https://www.svgrepo.com/show/521773/notion.svg" width="25%" alt="notionBG">
   </a>
   <a href="mailto:yeonghwan829@gmail.com">
     <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="25%" alt="Gmail Badge">
