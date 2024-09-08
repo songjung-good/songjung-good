@@ -70,38 +70,38 @@
 <br>
 
 ## 😄 진행프로젝트
-<table>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <th>CoA</th>
-    <th>Cloth at Hand</th>
-    <th>골라쥬</th>
+    <th style="text-align: center;">CoA</th>
+    <th style="text-align: center;">Cloth at Hand</th>
+    <th style="text-align: center;">골라쥬</th>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">
       <a href="https://github.com/songjung-good/CoA">
-        <img src="./img/COA_img.webp" style="width:150px;height:auto;" alt="COA">
+        <img src="./img/COA_img.webp" style="width: 150px; height: auto; display: block; margin: 0 auto;" alt="COA">
       </a>
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <a href="https://github.com/songjung-good/close-at-hand.git">
-        <img src="./img/CAH_img.png" style="width:150px;height:auto;" alt="CAH">
+        <img src="./img/CAH_img.png" style="width: 150px; height: auto; display: block; margin: 0 auto;" alt="CAH">
       </a>
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <a href="https://github.com/songjung-good/gollajyu">
-        <img src="./img/GLJ_img.png" style="width:150px;height:auto;" alt="GLJ">
+        <img src="./img/GLJ_img.png" style="width: 150px; height: auto; display: block; margin: 0 auto;" alt="GLJ">
       </a>
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">커밋 기반 프로젝트 분석 웹 프로젝트</td>
-    <td style="text-align: center;">옷 관리 및 데일리 룩 추천 IOT프로젝트</td>
+    <td style="text-align: center;">옷 관리 및 데일리 룩 추천 IOT 프로젝트</td>
     <td style="text-align: center;">정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트</td>
   </tr>
 </table>
 
-
 <br>
+
 
 ## 👯 기술스택
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=flat&logo=아이콘이름&logoColor=색상번호"> -->
