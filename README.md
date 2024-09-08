@@ -32,12 +32,37 @@
 <br>
 
 ## 🌱 About Me
-|**활동**|**기간**|**활동내용**|
-|:---:|:---:|:---:|
-|**ssafy 10기**|2023.07~2024.06(1년)|알고리즘 중심 코딩교육 & 프로젝트 기반 학습|
-|**도서집필**|2020.10~2020.12(3개월)|'청년정책 뜯어보기'|
-|**울산광역시의회**|2016.01~2016.12(10개월)|시정질의, 자유발언 등 초안 탈고|
-|**울산대학교**|2015.03~2021.02(130학점)|경제학과 학사|
+<table>
+  <thead>
+    <tr>
+      <th>활동</th>
+      <th>기간</th>
+      <th>활동내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;"><strong>ssafy 10기</strong></td>
+      <td style="text-align: center;">2023.07~2024.06(1년)</td>
+      <td style="text-align: center;">알고리즘 중심 코딩교육 & 프로젝트 기반 학습</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><strong>도서집필</strong></td>
+      <td style="text-align: center;">2020.10~2020.12(3개월)</td>
+      <td style="text-align: center;">'청년정책 뜯어보기'</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><strong>울산광역시의회</strong></td>
+      <td style="text-align: center;">2016.01~2016.12(10개월)</td>
+      <td style="text-align: center;">시정질의, 자유발언 등 초안 탈고</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><strong>울산대학교</strong></td>
+      <td style="text-align: center;">2015.03~2021.02(130학점)</td>
+      <td style="text-align: center;">경제학과 학사</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- |군복무|2021.10~2023.04(18개월)|육군복무| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
