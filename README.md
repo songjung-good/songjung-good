@@ -99,23 +99,15 @@
   <img src="https://img.shields.io/badge/Database-mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 </p>
 
-- python
-- JavaScript
-- TypeScript
-- Next.js
-- React
-
-<br>
-  
-### 협업 툴
-- Jira, git
-- Mattermost, slack
-- notion, google sheet, Figma
-- discord, webex
++ 언어 : python, javascript, typescript, dart
++ 프레임워크 및 라이브러리 : react, vue3, flutter, reactnative, next.js
++ CSS관련 : bootstrap, tailwindcss, styled-components
++ 개발도구 : vscode, android studio, postman
++ 데이터베이스 : mysql
++ 클라우드 및 협업도구 : aws, github, gitlab, figma, gerrit, swager, jira
 
 <br>
 
 ⚡ 자격증
-
-+ SQLD(원함)
++ SQLD
 + 
