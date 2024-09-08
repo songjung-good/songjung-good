@@ -72,9 +72,9 @@
 ## 😄 진행프로젝트
 <table style="width: 70%; margin: 0 auto; border-collapse: collapse;">
   <tr>
-    <td style="text-align: center; font-weight: bold; font-size: 1.2em;">CoA</td>
-    <td style="text-align: center; font-weight: bold; font-size: 1.2em;">cloth at hand</td>
-    <td style="text-align: center; font-weight: bold; font-size: 1.2em;">골라쥬</td>
+    <th>CoA</th>
+    <th>Cloth at Hand</th>
+    <th>골라쥬</th>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">
