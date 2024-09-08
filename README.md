@@ -19,7 +19,7 @@
 
 ### Notion
 <a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4">
-	<img src="./img/notionBG.jpg" width="75%" alt="notionBG">
+  <img src="https://www.svgrepo.com/show/361558/notion-logo.svg" width="75%" alt="notionBG">
 </a>
 
 <br>
