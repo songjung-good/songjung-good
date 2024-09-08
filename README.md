@@ -70,7 +70,7 @@
 <br>
 
 ## 😄 진행프로젝트
-<table style="width: 70%; margin: 0 auto; border-collapse: collapse;">
+<table>
   <tr>
     <th>CoA</th>
     <th>Cloth at Hand</th>
