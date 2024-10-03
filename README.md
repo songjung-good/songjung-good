@@ -125,7 +125,7 @@
 </p>
 
 + 언어 : python, javascript, typescript, dart
-+ 프레임워크 및 라이브러리 : react, vue3, flutter, reactnative, next.js
++ 프레임워크 및 라이브러리 : react, vue3, flutter, reactnative, next.js, django
 + CSS관련 : bootstrap, tailwindcss, styled-components
 + 개발도구 : vscode, android studio, postman
 + 데이터베이스 : mysql
