@@ -49,6 +49,11 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;"><strong>IM뱅크</strong></td>
+      <td style="text-align: center;">2024.10~2024.11</td>
+      <td style="text-align: center;">인턴</td>
+    </tr>
+    <tr>
       <td style="text-align: center;"><strong>ssafy 10기</strong></td>
       <td style="text-align: center;">2023.07~2024.06(1년)</td>
       <td style="text-align: center;">알고리즘 중심 코딩교육 & 프로젝트 기반 학습</td>
