@@ -91,24 +91,24 @@
     <th style="text-align: center;">Bank Snap</th>
   </tr>
   <tr>
-    <td style="width: 30%; text-align: center; vertical-align: middle;">
+    <td style="width: 25%; text-align: center; vertical-align: middle; position: relative;">
       <a href="https://github.com/songjung-good/CoA">
-        <img src="./img/COA_img.webp" style="width: 150px; height: auto; margin-left: auto; margin-right: auto; display: block;" alt="COA">
+        <img src="./img/COA_img.webp" style="width: 150px; height: auto; margin: auto; display: block;" alt="COA">
       </a>
     </td>
-    <td style="width: 30%; text-align: center; vertical-align: middle; position: relative;">
+    <td style="width: 25%; text-align: center; vertical-align: middle; position: relative;">
       <a href="https://github.com/songjung-good/close-at-hand.git">
-        <img src="./img/CAH_img.png" style="width: 150px; height: auto; display: block; margin-left: 30%;" alt="CAH">
+        <img src="./img/CAH_img.png" style="width: 150px; height: auto; margin: auto; display: block;" alt="CAH">
       </a>
     </td>
-    <td style="width: 30%; text-align: center; vertical-align: middle;">
+    <td style="width: 25%; text-align: center; vertical-align: middle; position: relative;">
       <a href="https://github.com/songjung-good/gollajyu">
-        <img src="./img/GLJ_img.png" style="width: 150px; height: auto; display: block; margin-left: 400%;" alt="GLJ">
+        <img src="./img/GLJ_img.png" style="width: 150px; height: auto; margin: auto; display: block;" alt="GLJ">
       </a>
     </td>
-    <td style="width: 30%; text-align: center; vertical-align: middle;">
+    <td style="width: 25%; text-align: center; vertical-align: middle; position: relative;">
       <a href="https://github.com/songjung-good/gollajyu">
-        <img src="./img/BS_img.png" style="width: 150px; height: auto; display: block; margin-left: 50%;" alt="BS">
+        <img src="./img/BS_img.png" style="width: 150px; height: auto; margin: auto; display: block;" alt="BS">
       </a>
     </td>
   </tr>
