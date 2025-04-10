@@ -98,17 +98,17 @@
     </td>
     <td style="width: 30%; text-align: center; vertical-align: middle;">
       <a href="https://github.com/songjung-good/close-at-hand.git">
-        <img src="./img/CAH_img.png" style="width: 150px; height: auto; display: block; margin-left: 10%;" alt="CAH">
+        <img src="./img/CAH_img.png" style="width: 150px; height: auto; display: block; margin-left: 30%;" alt="CAH">
       </a>
     </td>
     <td style="width: 30%; text-align: center; vertical-align: middle;">
       <a href="https://github.com/songjung-good/gollajyu">
-        <img src="./img/GLJ_img.png" style="width: 150px; height: auto; display: block; margin-left: 10%;" alt="GLJ">
+        <img src="./img/GLJ_img.png" style="width: 150px; height: auto; display: block; margin-left: 400%;" alt="GLJ">
       </a>
     </td>
     <td style="width: 30%; text-align: center; vertical-align: middle;">
       <a href="https://github.com/songjung-good/gollajyu">
-        <img src="./img/BS_img.png" style="width: 150px; height: auto; display: block; margin-left: 10%;" alt="BS">
+        <img src="./img/BS_img.png" style="width: 150px; height: auto; display: block; margin-left: 50%;" alt="BS">
       </a>
     </td>
   </tr>
