@@ -88,6 +88,7 @@
     <th style="text-align: center;">CoA</th>
     <th style="text-align: center;">Cloth at Hand</th>
     <th style="text-align: center;">골라쥬</th>
+    <th style="text-align: center;">Bank Snap</th>
   </tr>
   <tr>
     <td style="width: 30%; text-align: center; vertical-align: middle;">
@@ -105,11 +106,17 @@
         <img src="./img/GLJ_img.png" style="width: 150px; height: auto; display: block; margin: 0 auto;" alt="GLJ">
       </a>
     </td>
+    <td style="width: 30%; text-align: center; vertical-align: middle;">
+      <a href="https://github.com/songjung-good/gollajyu">
+        <img src="./img/GLJ_img.png" style="width: 150px; height: auto; display: block; margin: 0 auto;" alt="BS">
+      </a>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center;">커밋 기반 프로젝트 분석 웹 프로젝트</td>
     <td style="text-align: center;">옷 관리 및 데일리 룩 추천 IOT 프로젝트</td>
     <td style="text-align: center;">정보사회 속 선택의 질을 향상시키기 위한 웹 프로젝트</td>
+    <td style="text-align: center;">투자성향 기반 금융상품 추천 프로젝트</td>
   </tr>
 </table>
 
