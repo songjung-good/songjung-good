@@ -120,33 +120,6 @@
   </tr>
 </table>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-  <div>
-    <a href="https://github.com/songjung-good/CoA">
-      <img src="./img/COA_img.webp" style="width: 150px; height: auto;" alt="COA">
-    </a>
-    <p>AI 활용한 개발자 프로젝트 사이트</p>
-  </div>
-  <div>
-    <a href="https://github.com/songjung-good/close-at-hand.git">
-      <img src="./img/CAH_img.png" style="width: 150px; height: auto;" alt="CAH">
-    </a>
-    <p>옷 관리 및 추천 스마트 옷장</p>
-  </div>
-  <div>
-    <a href="https://github.com/songjung-good/gollajyu">
-      <img src="./img/GLJ_img.png" style="width: 150px; height: auto;" alt="GLJ">
-    </a>
-    <p>투표기반 상품 추천 커뮤니티</p>
-  </div>
-  <div>
-    <a href="https://github.com/songjung-good/gollajyu">
-      <img src="./img/BS_img.png" style="width: 150px; height: auto;" alt="BS">
-    </a>
-    <p>투자성향 기반 금융상품 추천 사이트</p>
-  </div>
-</div>
-
 <br>
 
 
