@@ -93,10 +93,10 @@
   <tr>
     <td style="width: 30%; text-align: center; vertical-align: middle;">
       <a href="https://github.com/songjung-good/CoA">
-        <img src="./img/COA_img.webp" style="width: 150px; height: auto; display: block; margin-left: 10%;" alt="COA">
+        <img src="./img/COA_img.webp" style="width: 150px; height: auto; margin-left: auto; margin-right: auto; display: block;" alt="COA">
       </a>
     </td>
-    <td style="width: 30%; text-align: center; vertical-align: middle;">
+    <td style="width: 30%; text-align: center; vertical-align: middle; position: relative;">
       <a href="https://github.com/songjung-good/close-at-hand.git">
         <img src="./img/CAH_img.png" style="width: 150px; height: auto; display: block; margin-left: 30%;" alt="CAH">
       </a>
