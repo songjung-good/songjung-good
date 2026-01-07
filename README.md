@@ -52,19 +52,29 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center;"><strong>IM뱅크</strong></td>
-      <td style="text-align: center;">2024.10~2024.11</td>
-      <td style="text-align: center;">인턴</td>
+      <td style="text-align: center;"><strong>IBK기업은행</strong></td>
+      <td style="text-align: center;">2025.07~2025.11</td>
+      <td style="text-align: center;">IT금융개발부 인턴</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><strong>ssafy 10기</strong></td>
+      <td style="text-align: center;"><strong>iM뱅크</strong></td>
+      <td style="text-align: center;">2024.10~2024.11</td>
+      <td style="text-align: center;">경북대지점 인턴</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><strong>삼성청년SW아카데미</strong></td>
       <td style="text-align: center;">2023.07~2024.06(1년)</td>
       <td style="text-align: center;">알고리즘 중심 코딩교육 & 프로젝트 기반 학습</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><strong>도서집필</strong></td>
-      <td style="text-align: center;">2020.10~2020.12(3개월)</td>
-      <td style="text-align: center;">'청년정책 뜯어보기'</td>
+      <td style="text-align: center;"><strong>울산청년센터</strong></td>
+      <td style="text-align: center;">2020.06~2020.10(5개월)</td>
+      <td style="text-align: center;">책 '청년정책 뜯어보기' 공동저자</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><strong>풀뿌리정책연구소</strong></td>
+      <td style="text-align: center;">2019.10~2020.02(5개월)</td>
+      <td style="text-align: center;">책 '청년정책 뜯어보기' 공동저자</td>
     </tr>
     <tr>
       <td style="text-align: center;"><strong>울산광역시의회</strong></td>
