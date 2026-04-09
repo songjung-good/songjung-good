@@ -119,7 +119,7 @@
       </a>
     </td>
     <td style="width: 25%; text-align: center; vertical-align: middle; position: relative;">
-      <a href="https://github.com/songjung-good/gollajyu">
+      <a href="https://github.com/songjung-good/pjt_banksnap">
         <img src="./img/BS_img.png" style="width: 150px; height: auto; margin: auto; display: block;" alt="BS">
       </a>
     </td>
