@@ -52,6 +52,11 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;"><strong>SKALA</strong></td>
+      <td style="text-align: center;">2026.07~</td>
+      <td style="text-align: center;">울산캠퍼스 교육생</td>
+    </tr>
+    <tr>
       <td style="text-align: center;"><strong>IBK기업은행</strong></td>
       <td style="text-align: center;">2025.07~2025.11</td>
       <td style="text-align: center;">IT금융개발부 인턴</td>
