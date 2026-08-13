@@ -140,15 +140,10 @@
 </p>
 
 ### Core
-![TypeScript]
-![React]
-![Next.js]
+TypeScript · React · Next.js
 
 ### Backend & Data
-![Python]
-![Django]
-![MySQL]
-![SQLite]
+Python · Django · MySQL · SQLite
 
 ### AI / Data
 LLM · Data Processing
