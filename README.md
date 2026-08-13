@@ -10,36 +10,11 @@
 
 # 👋 YH.dev
 
-## ✨ MY Github
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=false" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
--->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=songjung-good&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+> 문제를 구조화하고 기술로 해결하는 개발자, 배영환입니다.
+>
+> 데이터의 특성을 이해하고 적절한 기술을 선택해
+> 실제 서비스로 연결하는 과정을 좋아합니다.
 
-<br>
-
-## 💬 Contact
-<div style="display: flex; align-items: center;">
-  <a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4" style="margin-right: 10px;">
-    <img src="https://www.svgrepo.com/show/521773/notion.svg" width="25%" alt="notionBG">
-  </a>
-  <a href="mailto:yeonghwan829@gmail.com">
-    <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="25%" alt="Gmail Badge">
-  </a>
-</div>
-<br>
-
-
-<!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
-
-<br>
 
 ## 🌱 About Me
 <table>
@@ -54,7 +29,7 @@
     <tr>
       <td style="text-align: center;"><strong>SKALA</strong></td>
       <td style="text-align: center;">2026.07~</td>
-      <td style="text-align: center;">울산캠퍼스 교육생</td>
+      <td style="text-align: center;">AI·Cloud 기반 실무 교육</td>
     </tr>
     <tr>
       <td style="text-align: center;"><strong>IBK기업은행</strong></td>
@@ -69,7 +44,7 @@
     <tr>
       <td style="text-align: center;"><strong>삼성청년SW아카데미</strong></td>
       <td style="text-align: center;">2023.07~2024.06(1년)</td>
-      <td style="text-align: center;">알고리즘 중심 코딩교육 & 프로젝트 기반 학습</td>
+      <td style="text-align: center;">SW 개발 교육 및 프로젝트</td>
     </tr>
     <tr>
       <td style="text-align: center;"><strong>울산청년센터</strong></td>
@@ -84,7 +59,7 @@
     <tr>
       <td style="text-align: center;"><strong>울산광역시의회</strong></td>
       <td style="text-align: center;">2016.01~2016.12(10개월)</td>
-      <td style="text-align: center;">시정질의, 자유발언 등 초안 탈고</td>
+      <td style="text-align: center;">정책자료 및 시정질의 지원 </td>
     </tr>
     <tr>
       <td style="text-align: center;"><strong>울산대학교</strong></td>
@@ -93,6 +68,9 @@
     </tr>
   </tbody>
 </table>
+
+> 다양한 산업과 조직을 경험하며 문제를 발견하고,
+> 기술을 통해 해결하는 과정에 관심을 갖게 되었습니다.
 
 <!-- |군복무|2021.10~2023.04(18개월)|육군복무| -->
 <!-- |노무현장학재단|2020.01~2020.12(1년)|장학생| -->
@@ -161,12 +139,25 @@
   <img src="https://img.shields.io/badge/Database-mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 </p>
 
-+ 언어 : python, javascript, typescript, dart
-+ 프레임워크 및 라이브러리 : react, vue3, flutter, reactnative, next.js, django
-+ CSS관련 : bootstrap, tailwindcss, styled-components
-+ 개발도구 : vscode, android studio, postman
-+ 데이터베이스 : mysql
-+ 클라우드 및 협업도구 : aws, github, gitlab, figma, gerrit, swager, jira
+### Core
+![TypeScript]
+![React]
+![Next.js]
+
+### Backend & Data
+![Python]
+![Django]
+![MySQL]
+![SQLite]
+
+### AI / Data
+LLM · Data Processing
+
+### Infrastructure
+AWS · Docker · GitHub Actions
+
+### Collaboration
+Git · GitLab · Gerrit · Jira · Figma
 
 <br>
 
@@ -174,7 +165,36 @@
 ⚡ 자격증
 + SQLD
 
+## ✨ MY Github
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songjung-good&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=false" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=songjung-good&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+-->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=songjung-good&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
+<br>
+
+## 💬 Contact
+<div style="display: flex; align-items: center;">
+  <a href="https://developer-yh.notion.site/4e2703e8c96341be80e5af925ca2a9fe?pvs=4" style="margin-right: 10px;">
+    <img src="https://www.svgrepo.com/show/521773/notion.svg" width="25%" alt="notionBG">
+  </a>
+  <a href="mailto:yeonghwan829@gmail.com">
+    <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="25%" alt="Gmail Badge">
+  </a>
+</div>
+<br>
+
+
+<!-- ### [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://front-developer.tistory.com/)](https://front-developer.tistory.com/)  -->
+
+<br>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=songjung-good&utm_content=line">
   <img
