@@ -74,7 +74,7 @@
     <tr>
       <td style="text-align: center;"><strong>울산청년센터</strong></td>
       <td style="text-align: center;">2020.06~2020.10(5개월)</td>
-      <td style="text-align: center;">책 '청년정책 뜯어보기' 공동저자</td>
+      <td style="text-align: center;">울산지역 청년활동가 발굴 및 인터뷰</td>
     </tr>
     <tr>
       <td style="text-align: center;"><strong>풀뿌리정책연구소</strong></td>
